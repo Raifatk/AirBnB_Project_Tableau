@@ -43,7 +43,7 @@ Before importing the data into Tableau, I performed the following preprocessing 
 
 ### Dashboard Preview
 
-![Dashboard Preview](https://public.tableau.com/app/profile/raifa.tk/viz/AirBnB_Project_17161077491410/Dashboard1)
+![Dashboard Preview](https://github.com/Raifatk/AirBnB_Project_Tableau/blob/main/Dashboard%201.pdf)
 
 ## Key Insights
 
